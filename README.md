@@ -32,9 +32,6 @@ Within our consulting team, I owned the following workstreams:
 - Defined the VLAN-based segmentation strategy and zone architecture supporting a defense-in-depth approach
 - Diagrammed the site-to-site WAN architecture, including redundant connectivity paths supporting business continuity requirements
 
-![Network Topology Diagram](assets/network-topology.png)
-*Wide-area network topology I designed, showing the three-site architecture (primary and backup Power Grid Control Centers plus the corporate customer service center) with OT/IT segmentation, dual-carrier WAN redundancy, and defense-in-depth firewall zoning.*
-
 ## Methodologies Applied
 
 - **NIST SP 800-30** — Risk Assessment methodology
